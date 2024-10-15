@@ -1,0 +1,1 @@
+find-and-replace.py ./ "www.paulfurey.com/cookie-policy" "ago.consulting/cookie-policy"

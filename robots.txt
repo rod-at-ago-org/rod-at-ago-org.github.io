@@ -1,0 +1,6 @@
+User-agent: *
+Disallow: /styleguide/
+Disallow: /cookie-policy
+Disallow: /search
+
+Sitemap: https://ago.consulting/sitemap.xml
