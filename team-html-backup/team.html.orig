@@ -17,7 +17,7 @@
       property="og:description"
     />
     <meta
-      content="./local-assets/636d19327a176e093a2ce759_Team.png"
+      content="https://cdn.prod.website-files.com/634d1c7c2d6ff75ae6ba280f/636d19327a176e093a2ce759_Team.png"
       property="og:image"
     />
     <meta content="Paul Furey&#x27;s team" property="twitter:title" />
@@ -26,7 +26,7 @@
       property="twitter:description"
     />
     <meta
-      content="./local-assets/636d19327a176e093a2ce759_Team.png"
+      content="https://cdn.prod.website-files.com/634d1c7c2d6ff75ae6ba280f/636d19327a176e093a2ce759_Team.png"
       property="twitter:image"
     />
     <meta property="og:type" content="website" />
@@ -115,11 +115,11 @@
     <!-- Finsweet Cookie Consent -->
     <script
       async
-      src="./local-assets/fs-cc.js"
+      src="https://cdn.jsdelivr.net/npm/@finsweet/cookie-consent@1/fs-cc.js"
       fs-cc-mode="opt-in"
     ></script>
 
-    <script async src="./local-assets/sb.js"></script>
+    <script async src="https://cdn.splitbee.io/sb.js"></script>
   </head>
   <body>
     <div class="global-styles code-embed w-embed">
@@ -465,7 +465,7 @@
                 of cookies on your device to enhance site navigation, analyse
                 site usage, and assist in our marketing efforts. View our
                 <a
-                  href="./local-assets/cookie-policy"
+                  href="https://www.paulfurey.com/cookie-policy"
                   target="_blank"
                   >Cookie Policy</a
                 >
@@ -516,7 +516,7 @@
                     of the website. Blocking categories may impact your
                     experience on the website. Read about how we use cookies in
                     our
-                    <a href="./local-assets/cookie-policy"
+                    <a href="https://www.paulfurey.com/cookie-policy"
                       >Cookie Policy</a
                     >.
                   </div>
@@ -1174,15 +1174,15 @@
                 href="team-members/paul-furey.html"
                 class="team-item-photo-container w-inline-block"
                 ><img
-                  src="./local-assets/636e5d5c6814353c1711b2bd_Paul-Furey-Team-_0001_Paul.jpg"
+                  src="https://cdn.prod.website-files.com/634d1c7c2d6ff75ae6ba280f/636e5d5c6814353c1711b2bd_Paul-Furey-Team-_0001_Paul.jpg"
                   loading="lazy"
                   alt="Paul Furey"
                   sizes="(max-width: 479px) 93vw, (max-width: 767px) 46vw, (max-width: 991px) 29vw, 21vw"
                   srcset="
-                    ./local-assets/636e5d5c6814353c1711b2bd_Paul-Furey-Team-_0001_Paul-p-500.jpg   500w,
-                    ./local-assets/636e5d5c6814353c1711b2bd_Paul-Furey-Team-_0001_Paul-p-800.jpg   800w,
-                    ./local-assets/636e5d5c6814353c1711b2bd_Paul-Furey-Team-_0001_Paul-p-1080.jpg 1080w,
-                    ./local-assets/636e5d5c6814353c1711b2bd_Paul-Furey-Team-_0001_Paul.jpg        1280w
+                    https://cdn.prod.website-files.com/634d1c7c2d6ff75ae6ba280f/636e5d5c6814353c1711b2bd_Paul-Furey-Team-_0001_Paul-p-500.jpg   500w,
+                    https://cdn.prod.website-files.com/634d1c7c2d6ff75ae6ba280f/636e5d5c6814353c1711b2bd_Paul-Furey-Team-_0001_Paul-p-800.jpg   800w,
+                    https://cdn.prod.website-files.com/634d1c7c2d6ff75ae6ba280f/636e5d5c6814353c1711b2bd_Paul-Furey-Team-_0001_Paul-p-1080.jpg 1080w,
+                    https://cdn.prod.website-files.com/634d1c7c2d6ff75ae6ba280f/636e5d5c6814353c1711b2bd_Paul-Furey-Team-_0001_Paul.jpg        1280w
                   "
                   class="team-item-photo"
               /></a>
@@ -1210,15 +1210,15 @@
                 href="team-members/smitha.html"
                 class="team-item-photo-container w-inline-block"
                 ><img
-                  src="./local-assets/636e5d26e880a2195d2618cb_Paul-Furey-Team-_0002_Smita.jpg"
+                  src="https://cdn.prod.website-files.com/634d1c7c2d6ff75ae6ba280f/636e5d26e880a2195d2618cb_Paul-Furey-Team-_0002_Smita.jpg"
                   loading="lazy"
                   alt="Smita Elmore"
                   sizes="(max-width: 479px) 93vw, (max-width: 767px) 46vw, (max-width: 991px) 29vw, 21vw"
                   srcset="
-                    ./local-assets/636e5d26e880a2195d2618cb_Paul-Furey-Team-_0002_Smita-p-500.jpg   500w,
-                    ./local-assets/636e5d26e880a2195d2618cb_Paul-Furey-Team-_0002_Smita-p-800.jpg   800w,
-                    ./local-assets/636e5d26e880a2195d2618cb_Paul-Furey-Team-_0002_Smita-p-1080.jpg 1080w,
-                    ./local-assets/636e5d26e880a2195d2618cb_Paul-Furey-Team-_0002_Smita.jpg        1280w
+                    https://cdn.prod.website-files.com/634d1c7c2d6ff75ae6ba280f/636e5d26e880a2195d2618cb_Paul-Furey-Team-_0002_Smita-p-500.jpg   500w,
+                    https://cdn.prod.website-files.com/634d1c7c2d6ff75ae6ba280f/636e5d26e880a2195d2618cb_Paul-Furey-Team-_0002_Smita-p-800.jpg   800w,
+                    https://cdn.prod.website-files.com/634d1c7c2d6ff75ae6ba280f/636e5d26e880a2195d2618cb_Paul-Furey-Team-_0002_Smita-p-1080.jpg 1080w,
+                    https://cdn.prod.website-files.com/634d1c7c2d6ff75ae6ba280f/636e5d26e880a2195d2618cb_Paul-Furey-Team-_0002_Smita.jpg        1280w
                   "
                   class="team-item-photo"
               /></a>
@@ -1246,15 +1246,15 @@
                 href="team-members/kathryn-gordon.html"
                 class="team-item-photo-container w-inline-block"
                 ><img
-                  src="./local-assets/63c65cf6a3ef2e72c6ac0465_Paul-Furey-Team-_0005_Kathryn.jpg"
+                  src="https://cdn.prod.website-files.com/634d1c7c2d6ff75ae6ba280f/63c65cf6a3ef2e72c6ac0465_Paul-Furey-Team-_0005_Kathryn.jpg"
                   loading="lazy"
                   alt="Kathryn Gordon"
                   sizes="(max-width: 479px) 93vw, (max-width: 767px) 46vw, (max-width: 991px) 29vw, 21vw"
                   srcset="
-                    ./local-assets/63c65cf6a3ef2e72c6ac0465_Paul-Furey-Team-_0005_Kathryn-p-500.jpg   500w,
-                    ./local-assets/63c65cf6a3ef2e72c6ac0465_Paul-Furey-Team-_0005_Kathryn-p-800.jpg   800w,
-                    ./local-assets/63c65cf6a3ef2e72c6ac0465_Paul-Furey-Team-_0005_Kathryn-p-1080.jpg 1080w,
-                    ./local-assets/63c65cf6a3ef2e72c6ac0465_Paul-Furey-Team-_0005_Kathryn.jpg        1280w
+                    https://cdn.prod.website-files.com/634d1c7c2d6ff75ae6ba280f/63c65cf6a3ef2e72c6ac0465_Paul-Furey-Team-_0005_Kathryn-p-500.jpg   500w,
+                    https://cdn.prod.website-files.com/634d1c7c2d6ff75ae6ba280f/63c65cf6a3ef2e72c6ac0465_Paul-Furey-Team-_0005_Kathryn-p-800.jpg   800w,
+                    https://cdn.prod.website-files.com/634d1c7c2d6ff75ae6ba280f/63c65cf6a3ef2e72c6ac0465_Paul-Furey-Team-_0005_Kathryn-p-1080.jpg 1080w,
+                    https://cdn.prod.website-files.com/634d1c7c2d6ff75ae6ba280f/63c65cf6a3ef2e72c6ac0465_Paul-Furey-Team-_0005_Kathryn.jpg        1280w
                   "
                   class="team-item-photo"
               /></a>
@@ -1284,14 +1284,14 @@
                 href="team-members/nicola-spridgeon.html"
                 class="team-item-photo-container w-inline-block"
                 ><img
-                  src="./local-assets/65ef01d6d6bc2067b85c876b_Nicola.jpeg"
+                  src="https://cdn.prod.website-files.com/634d1c7c2d6ff75ae6ba280f/65ef01d6d6bc2067b85c876b_Nicola.jpeg"
                   loading="lazy"
                   alt="Nicola Spridgeon"
                   sizes="(max-width: 479px) 93vw, (max-width: 767px) 46vw, (max-width: 991px) 29vw, 21vw"
                   srcset="
-                    ./local-assets/65ef01d6d6bc2067b85c876b_Nicola-p-500.jpeg 500w,
-                    ./local-assets/65ef01d6d6bc2067b85c876b_Nicola-p-800.jpeg 800w,
-                    ./local-assets/65ef01d6d6bc2067b85c876b_Nicola.jpeg       898w
+                    https://cdn.prod.website-files.com/634d1c7c2d6ff75ae6ba280f/65ef01d6d6bc2067b85c876b_Nicola-p-500.jpeg 500w,
+                    https://cdn.prod.website-files.com/634d1c7c2d6ff75ae6ba280f/65ef01d6d6bc2067b85c876b_Nicola-p-800.jpeg 800w,
+                    https://cdn.prod.website-files.com/634d1c7c2d6ff75ae6ba280f/65ef01d6d6bc2067b85c876b_Nicola.jpeg       898w
                   "
                   class="team-item-photo"
               /></a>
@@ -1321,15 +1321,15 @@
                 href="team-members/dianne-hughes.html"
                 class="team-item-photo-container w-inline-block"
                 ><img
-                  src="./local-assets/63d7939737609163275ac618_Dianne%20new%20site%20pic.jpg"
+                  src="https://cdn.prod.website-files.com/634d1c7c2d6ff75ae6ba280f/63d7939737609163275ac618_Dianne%20new%20site%20pic.jpg"
                   loading="lazy"
                   alt="Dianne Hughes"
                   sizes="(max-width: 479px) 93vw, (max-width: 767px) 46vw, (max-width: 991px) 29vw, 21vw"
                   srcset="
-                    ./local-assets/63d7939737609163275ac618_Dianne%20new%20site%20pic-p-500.jpg   500w,
-                    ./local-assets/63d7939737609163275ac618_Dianne%20new%20site%20pic-p-800.jpg   800w,
-                    ./local-assets/63d7939737609163275ac618_Dianne%20new%20site%20pic-p-1080.jpg 1080w,
-                    ./local-assets/63d7939737609163275ac618_Dianne%20new%20site%20pic.jpg        1200w
+                    https://cdn.prod.website-files.com/634d1c7c2d6ff75ae6ba280f/63d7939737609163275ac618_Dianne%20new%20site%20pic-p-500.jpg   500w,
+                    https://cdn.prod.website-files.com/634d1c7c2d6ff75ae6ba280f/63d7939737609163275ac618_Dianne%20new%20site%20pic-p-800.jpg   800w,
+                    https://cdn.prod.website-files.com/634d1c7c2d6ff75ae6ba280f/63d7939737609163275ac618_Dianne%20new%20site%20pic-p-1080.jpg 1080w,
+                    https://cdn.prod.website-files.com/634d1c7c2d6ff75ae6ba280f/63d7939737609163275ac618_Dianne%20new%20site%20pic.jpg        1200w
                   "
                   class="team-item-photo"
               /></a>
@@ -1357,15 +1357,15 @@
                 href="team-members/natalie.html"
                 class="team-item-photo-container w-inline-block"
                 ><img
-                  src="./local-assets/636e5d136814356d9f11ab3b_Paul-Furey-Team-_0003_Natalie.jpg"
+                  src="https://cdn.prod.website-files.com/634d1c7c2d6ff75ae6ba280f/636e5d136814356d9f11ab3b_Paul-Furey-Team-_0003_Natalie.jpg"
                   loading="lazy"
                   alt="Natalie Miller"
                   sizes="(max-width: 479px) 93vw, (max-width: 767px) 46vw, (max-width: 991px) 29vw, 21vw"
                   srcset="
-                    ./local-assets/636e5d136814356d9f11ab3b_Paul-Furey-Team-_0003_Natalie-p-500.jpg   500w,
-                    ./local-assets/636e5d136814356d9f11ab3b_Paul-Furey-Team-_0003_Natalie-p-800.jpg   800w,
-                    ./local-assets/636e5d136814356d9f11ab3b_Paul-Furey-Team-_0003_Natalie-p-1080.jpg 1080w,
-                    ./local-assets/636e5d136814356d9f11ab3b_Paul-Furey-Team-_0003_Natalie.jpg        1280w
+                    https://cdn.prod.website-files.com/634d1c7c2d6ff75ae6ba280f/636e5d136814356d9f11ab3b_Paul-Furey-Team-_0003_Natalie-p-500.jpg   500w,
+                    https://cdn.prod.website-files.com/634d1c7c2d6ff75ae6ba280f/636e5d136814356d9f11ab3b_Paul-Furey-Team-_0003_Natalie-p-800.jpg   800w,
+                    https://cdn.prod.website-files.com/634d1c7c2d6ff75ae6ba280f/636e5d136814356d9f11ab3b_Paul-Furey-Team-_0003_Natalie-p-1080.jpg 1080w,
+                    https://cdn.prod.website-files.com/634d1c7c2d6ff75ae6ba280f/636e5d136814356d9f11ab3b_Paul-Furey-Team-_0003_Natalie.jpg        1280w
                   "
                   class="team-item-photo"
               /></a>
@@ -1393,15 +1393,15 @@
                 href="team-members/sarah.html"
                 class="team-item-photo-container w-inline-block"
                 ><img
-                  src="./local-assets/636e5d30d029f8e21262e02e_Paul-Furey-Team-_0000_Sarah.jpg"
+                  src="https://cdn.prod.website-files.com/634d1c7c2d6ff75ae6ba280f/636e5d30d029f8e21262e02e_Paul-Furey-Team-_0000_Sarah.jpg"
                   loading="lazy"
                   alt="Sarah Phillips"
                   sizes="(max-width: 479px) 93vw, (max-width: 767px) 46vw, (max-width: 991px) 29vw, 21vw"
                   srcset="
-                    ./local-assets/636e5d30d029f8e21262e02e_Paul-Furey-Team-_0000_Sarah-p-500.jpg   500w,
-                    ./local-assets/636e5d30d029f8e21262e02e_Paul-Furey-Team-_0000_Sarah-p-800.jpg   800w,
-                    ./local-assets/636e5d30d029f8e21262e02e_Paul-Furey-Team-_0000_Sarah-p-1080.jpg 1080w,
-                    ./local-assets/636e5d30d029f8e21262e02e_Paul-Furey-Team-_0000_Sarah.jpg        1280w
+                    https://cdn.prod.website-files.com/634d1c7c2d6ff75ae6ba280f/636e5d30d029f8e21262e02e_Paul-Furey-Team-_0000_Sarah-p-500.jpg   500w,
+                    https://cdn.prod.website-files.com/634d1c7c2d6ff75ae6ba280f/636e5d30d029f8e21262e02e_Paul-Furey-Team-_0000_Sarah-p-800.jpg   800w,
+                    https://cdn.prod.website-files.com/634d1c7c2d6ff75ae6ba280f/636e5d30d029f8e21262e02e_Paul-Furey-Team-_0000_Sarah-p-1080.jpg 1080w,
+                    https://cdn.prod.website-files.com/634d1c7c2d6ff75ae6ba280f/636e5d30d029f8e21262e02e_Paul-Furey-Team-_0000_Sarah.jpg        1280w
                   "
                   class="team-item-photo"
               /></a>
@@ -1429,15 +1429,15 @@
                 href="team-members/nigel-wood.html"
                 class="team-item-photo-container w-inline-block"
                 ><img
-                  src="./local-assets/63c65b3bb11ceac3ad60d88b_Paul-Furey-Team-_0004_Nigel.jpg"
+                  src="https://cdn.prod.website-files.com/634d1c7c2d6ff75ae6ba280f/63c65b3bb11ceac3ad60d88b_Paul-Furey-Team-_0004_Nigel.jpg"
                   loading="lazy"
                   alt="Nigel Wood"
                   sizes="(max-width: 479px) 93vw, (max-width: 767px) 46vw, (max-width: 991px) 29vw, 21vw"
                   srcset="
-                    ./local-assets/63c65b3bb11ceac3ad60d88b_Paul-Furey-Team-_0004_Nigel-p-500.jpg   500w,
-                    ./local-assets/63c65b3bb11ceac3ad60d88b_Paul-Furey-Team-_0004_Nigel-p-800.jpg   800w,
-                    ./local-assets/63c65b3bb11ceac3ad60d88b_Paul-Furey-Team-_0004_Nigel-p-1080.jpg 1080w,
-                    ./local-assets/63c65b3bb11ceac3ad60d88b_Paul-Furey-Team-_0004_Nigel.jpg        1280w
+                    https://cdn.prod.website-files.com/634d1c7c2d6ff75ae6ba280f/63c65b3bb11ceac3ad60d88b_Paul-Furey-Team-_0004_Nigel-p-500.jpg   500w,
+                    https://cdn.prod.website-files.com/634d1c7c2d6ff75ae6ba280f/63c65b3bb11ceac3ad60d88b_Paul-Furey-Team-_0004_Nigel-p-800.jpg   800w,
+                    https://cdn.prod.website-files.com/634d1c7c2d6ff75ae6ba280f/63c65b3bb11ceac3ad60d88b_Paul-Furey-Team-_0004_Nigel-p-1080.jpg 1080w,
+                    https://cdn.prod.website-files.com/634d1c7c2d6ff75ae6ba280f/63c65b3bb11ceac3ad60d88b_Paul-Furey-Team-_0004_Nigel.jpg        1280w
                   "
                   class="team-item-photo"
               /></a>
@@ -1601,7 +1601,7 @@
                   class="goat-credit-link w-inline-block"
                   ><div class="goat-credit-logo w-embed">
                     <img
-                      src="./local-assets/wearegoat-credit-negative-white.svg"
+                      src="https://goat-logos.s3.eu-west-2.amazonaws.com/v1.0/wearegoat-credit-negative-white.svg"
                       alt="Website made by wearegoat"
                     /></div
                 ></a>
@@ -1744,7 +1744,7 @@
       id="hs-script-loader"
       async
       defer
-      src="./local-assets/144316471.js"
+      src="https://js-eu1.hs-scripts.com/144316471.js"
     ></script>
     <!-- End of HubSpot Embed Code -->
   </body>
