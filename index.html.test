@@ -1595,11 +1595,11 @@
     ></script>
     <!-- CALENDLY -->
     <link
-      href="https://assets.calendly.com/assets/external/widget.css"
+      href="./local-assets/widget.css"
       rel="stylesheet"
     />
     <script
-      src="https://assets.calendly.com/assets/external/widget.js"
+      src="./local-assets/widget.js"
       type="text/javascript"
     ></script>
 
