@@ -72,30 +72,16 @@
         -moz-osx-font-smoothing: grayscale;
       }
 
-      .hidden {
-        display: none;
-      }
+      .hidden { display: none; }
+      .pe-n { pointer-events: none; }
+      .pe-a { pointer-events: auto; }
+      .us-n { user-select: none; }
 
-      .pe-n {
-        pointer-events: none;
-      }
-
-      .pe-a {
-        pointer-events: auto;
-      }
-
-      .us-n {
-        user-select: none;
-      }
     </style>
 
     <style>
-      body .transition {
-        display: block;
-      }
-      .w-editor .transition {
-        display: none;
-      }
+      body .transition { display: block; }
+      .w-editor .transition { display: none; }
       .no-scroll-transition {
         overflow: hidden;
         position: relative;
@@ -138,34 +124,14 @@
           background-color: currentColor;
         }
 
-        .burger-02:hover {
-          color: #f2ffeb !important;
-        }
-
-        .navigation {
-          overscroll-behavior: contain;
-        }
-
-        .dotted-underline {
-          border-bottom-color: currentColor;
-        }
-
+        .burger-02:hover { color: #f2ffeb !important; }
+        .navigation { overscroll-behavior: contain; }
+        .dotted-underline { border-bottom-color: currentColor; }
         .underlines-container,
-        .asterisk-container {
-          pointer-events: none;
-        }
-
-        .nav-open .logo-container {
-          color: #f2ffeb;
-        }
-
-        .nav-open .logo-container:hover {
-          color: #c9fb60;
-        }
-
-        .nav-open .logo-color {
-          color: #f2ffeb;
-        }
+        .asterisk-container { pointer-events: none; }
+        .nav-open .logo-container { color: #f2ffeb; }
+        .nav-open .logo-container:hover { color: #c9fb60; }
+        .nav-open .logo-color { color: #f2ffeb; }
 
         @media (min-width: 992px) {
           h1,
@@ -308,17 +274,9 @@
             </div>
             <div class="burger-styles code-embed w-embed">
               <style>
-                .burger-02:hover .burger-line {
-                  background-color: #f2ffeb !important;
-                }
-
-                .nav-open .burger-02:hover {
-                  border-color: #c9fb60 !important;
-                }
-
-                .nav-open .burger-02:hover .burger-line {
-                  background-color: #c9fb60 !important;
-                }
+                .burger-02:hover .burger-line { background-color: #f2ffeb !important; }
+                .nav-open .burger-02:hover { border-color: #c9fb60 !important; }
+                .nav-open .burger-02:hover .burger-line { background-color: #c9fb60 !important; }
               </style>
             </div>
             <div class="burger-box">
@@ -1045,7 +1003,7 @@
       <div class="container">
         <div class="large-heading-container">
           <h1 data-as-order="0" data-as-style="split" class="heading-1">
-            Too much work<br>Not enough staff?
+            Ago Consulting<br> <br>Engineering Services
           </h1>
         </div>
       </div>
@@ -1135,8 +1093,17 @@
         <div class="section-content">
           <div class="section-content-heading">
             <h3 data-as-order="0" data-as-style="split" class="heading-3">
-              Even the most successful companies have problems that executives
-              would rather keep to themselves.
+              We're here to help with your project. <br> 
+              Before, during, or even after project execution. <br> 
+              From turnkey to augmentation. <br> 
+              <br>
+              • Architecture <br> 
+              • Design and verification <br> 
+              • Physical design <br> 
+              • Circuit design <br> 
+              • Layout <br> 
+              • Lab bring-up and debug <br> 
+              • Manufacturing <br> 
             </h3>
           </div>
           <div class="section-content-text">
@@ -1277,8 +1244,7 @@
                   alt=""
                   loading="eager"
                   src="./local-assets/moodys-logo.png"
-                  sizes="(max-width: 479px) 29vw, (max-width: 767px) 31vw, (max-width: 991px) 29vw, 27vw"
-                  srcset="
+                  sizes="(max-width: 479px) 29vw, (max-width: 767px) 31vw, (max-width: 991px) 29vw, 27vw" srcset="
                     ./local-assets/moodys-logo-500.png 500w,
                     ./local-assets/moodys-logo.png     800w
                   "
@@ -1315,8 +1281,8 @@
               </div>
               <div class="schedule-text">
                 <p class="body-small">
-                  Request a 30 minute call with one of the team to discuss where
-                  you want to make progress and to understand how we can help.
+                  Request a 30 minute call with one of the team to discuss your needs. 
+                  <br> No project is too small.  <br> No project is too big.   
                 </p>
               </div>
               <a
@@ -1430,18 +1396,6 @@
                   <div>Open cookie preferences</div>
                 </div>
               </div>
-              <div class="goat-credit-container">
-                <a
-                  href="./local-assets/wearegoat.com"
-                  target="_blank"
-                  class="goat-credit-link w-inline-block"
-                  ><div class="goat-credit-logo w-embed">
-                    <img
-                      src="./local-assets/wearegoat-credit-negative-white.svg"
-                      alt="Website made by wearegoat"
-                    /></div
-                ></a>
-              </div>
             </div>
           </div>
         </div>
@@ -1483,7 +1437,7 @@
     </script>
 
     <!-- ANIMATIONS -->
-    <script src="css`/main.iife.js"></script>
+    <script src="css/main.iife.js"></script>
 
     <!-- PAGE TRANSITIONS -->
     <script>

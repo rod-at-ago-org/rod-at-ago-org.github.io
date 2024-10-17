@@ -1,0 +1,17 @@
+content="local-assets/Homepage.jpeg"
+content="local-assets/Homepage.jpeg"
+href="favicon-32.png"
+href="favicon-256.png"
+src="./local-assets/moodys-logo.png"
+./local-assets/moodys-500.png  500w,
+./local-assets/moodys-logo.png 800w
+src="./local-assets/moodys-logo.png"
+./local-assets/moodys-logo-500.png 500w,
+./local-assets/moodys-logo.png     800w
+src="./local-assets/moodys-logo.png"
+./local-assets/moodys-logo-500.png 500w,
+./local-assets/moodys-logo.png     800w
+src="./local-assets/moodys-logo.png"
+./local-assets/moodys-logo-500.png 500w,
+./local-assets/moodys-logo.png     800w
+src="./local-assets/wearegoat-credit-negative-white.svg"
