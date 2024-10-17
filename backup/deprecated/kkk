@@ -1,2 +1,0 @@
-find-and-replace.py ./ "calendly.com/paulfureydiary" "calendly.com/rod-ago"
-# https://calendly.com/paulfureydiary?text_color=26363f&primary_color=077843'});return

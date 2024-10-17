@@ -1,6 +1,0 @@
-User-agent: *
-Disallow: /styleguide/
-Disallow: /cookie-policy
-Disallow: /search
-
-Sitemap: https://www.paulfurey.com/sitemap.xml

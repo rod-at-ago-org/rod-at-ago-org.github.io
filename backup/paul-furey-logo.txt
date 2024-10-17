@@ -1,7 +1,0 @@
-./www.paulfurey.com/team-members/nicola-spridgeon.html
-./www.paulfurey.com/case-studies/between-a-rock-and-a-hard-place.html
-./team-members/nicola-spridgeon-html/nicola-spridgeon.html
-./team-members/william-jao.html
-./team-members/nicola-spridgeon.html
-./case-studies/between-a-rock-and-a-hard-place.html
-./case-studies/between-a-rock-and-a-hard-place-html/between-a-rock-and-a-hard-place.html
