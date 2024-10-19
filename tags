@@ -1,0 +1,27 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.8	//
+_DumpException	architecture.html	/^      function _DumpException(e) {$/;"	f
+_DumpException	design.html	/^      function _DumpException(e) {$/;"	f
+_DumpException	index.html	/^      function _DumpException(e) {$/;"	f
+_DumpException	physical-design.html	/^      function _DumpException(e) {$/;"	f
+_DumpException	slides.html	/^      function _DumpException(e) {$/;"	f
+_DumpException	team.html	/^      function _DumpException(e) {$/;"	f
+_DumpException	verification.html	/^      function _DumpException(e) {$/;"	f
+bgImgLoaded	architecture.html	/^      function bgImgLoaded() {$/;"	f
+bgImgLoaded	design.html	/^      function bgImgLoaded() {$/;"	f
+bgImgLoaded	index.html	/^      function bgImgLoaded() {$/;"	f
+bgImgLoaded	physical-design.html	/^      function bgImgLoaded() {$/;"	f
+bgImgLoaded	slides.html	/^      function bgImgLoaded() {$/;"	f
+bgImgLoaded	team.html	/^      function bgImgLoaded() {$/;"	f
+bgImgLoaded	verification.html	/^      function bgImgLoaded() {$/;"	f
+gapiLoaded	architecture.html	/^      function gapiLoaded() {$/;"	f
+gapiLoaded	design.html	/^      function gapiLoaded() {$/;"	f
+gapiLoaded	index.html	/^      function gapiLoaded() {$/;"	f
+gapiLoaded	physical-design.html	/^      function gapiLoaded() {$/;"	f
+gapiLoaded	slides.html	/^      function gapiLoaded() {$/;"	f
+gapiLoaded	team.html	/^      function gapiLoaded() {$/;"	f
+gapiLoaded	verification.html	/^      function gapiLoaded() {$/;"	f
