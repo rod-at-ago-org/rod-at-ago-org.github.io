@@ -1,3 +1,3 @@
-README.md - rod-at-ago.github.io
+README.md - rod-at-ago-org.github.io
 
-This is the website for aieda.technology
+This is the website for ago.consulting
