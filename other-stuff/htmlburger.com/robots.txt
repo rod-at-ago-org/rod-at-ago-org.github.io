@@ -1,5 +1,0 @@
-User-agent: *
-Disallow: /sample-parser
-Disallow: /voucher-campaign
-Disallow: /try-htmlburger
-Allow: /
