@@ -1,0 +1,9 @@
+mv Lexend-Black.ttf.woff        Lexend-Black.woff
+mv Lexend-Bold.ttf.woff         Lexend-Bold.woff
+mv Lexend-ExtraBold.ttf.woff    Lexend-ExtraBold.woff
+mv Lexend-ExtraLight.ttf.woff   Lexend-ExtraLight.woff
+mv Lexend-Light.ttf.woff        Lexend-Light.woff
+mv Lexend-Medium.ttf.woff       Lexend-Medium.woff
+mv Lexend-Regular.ttf.woff      Lexend-Regular.woff
+mv Lexend-SemiBold.ttf.woff     Lexend-SemiBold.woff
+mv Lexend-Thin.ttf.woff         Lexend-Thin.woff
